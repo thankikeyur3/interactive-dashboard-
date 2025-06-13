@@ -1,0 +1,14 @@
+
+Superstore Sales Dashboard – Insights
+
+1. Top-Performing Region
+   The West region leads in total sales, contributing the largest share to the company's revenue, followed by the East region. However, the South region shows relatively low profitability, indicating room for optimization.
+
+2. Category & Sub-Category Trends
+   The Technology category is the most profitable, especially sub-categories like Phones and Accessories. On the other hand, Office Supplies shows high sales but lower profit margins due to discounts or high competition.
+
+3. Sales vs. Discount Impact
+   Orders with high discounts are not consistently profitable. In many cases, heavy discounting leads to negative profit, suggesting the need to review discount strategy.
+
+4. Monthly Seasonality Observed
+   December and November show sales peaks, hinting at seasonal buying patterns, likely due to holiday promotions. These months should be targeted for major marketing campaigns.
